@@ -1,4 +1,4 @@
-## `ng deploy`
+## `npm run deploy`
 
 it is used to deploy on github throught ghpages
 
